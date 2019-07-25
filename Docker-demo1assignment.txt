@@ -1,0 +1,38 @@
+#Docker -Demo1 Assignment
+
+1. Installation of dcoker on linux any flavout ubuntu or centos.. Write down the steps
+
+2. Docker run "image", choose any image from dockerhub https://hub.docker.com/ and try out any 3 images on your local box, so that 3 containers should start running:
+Also ensure 2 containers on one terminal, and 2 more containers on two terminals.
+
+
+3. docker run <image> <startup commnd>
+
+
+4.  docker ps
+
+5. docker ps -all
+
+6. docker create image
+
+7. docker start <container id>
+ 
+
+8. docker start -a <container id>
+
+9. docker system prune 
+
+10. docker logs <container id>
+
+11. docker stop <container id>
+
+12. docker kill <container id>
+
+13. docker exec -it <containerid> <command>
+
+14. docker exec <containerid> <command>
+
+15. docker run -it <image> <command>: What is the observation?
+
+
+ 
